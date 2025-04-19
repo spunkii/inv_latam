@@ -82,9 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	/*body {
-		padding-top: 3.5em;
-	}*/
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
